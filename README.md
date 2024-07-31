@@ -10,7 +10,7 @@ ChebyKAN = Linear + custom activation function
 
 # Usage
 
-```bash
+```py
 from chebykanlayer import ChebyKANLayer
 
 class MNISTChebyKAN(nn.Module):
